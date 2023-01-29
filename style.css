@@ -1,0 +1,214 @@
+.container {
+    width: 70%;
+}
+
+.firstDiv, .secondDiv {
+    background-color: #ebeff0;
+}
+
+.firstDiv {
+    padding: 20px;
+}
+
+.firstDiv div {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    font-weight: bold;
+}
+
+.reg {
+    background-color:  #c2cbce;
+}
+
+.here {
+    background-color: white;
+}
+
+.myA a {
+    text-decoration: none;
+}
+.secondDiv {
+    padding: 15px;
+}
+
+.secondUmumiy {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-control {
+    background-color: #fcfcfc;
+    border: 1px solid gray;
+}
+
+.indexInput {
+    margin-top: 25px;
+}
+
+.indexP a {
+    text-decoration: none;
+}
+
+.myButton {
+    border-radius: 35px;
+    background-color: #346e9e;
+    border: 1px solid #346e9e;
+}
+
+.myButton:hover {
+    background-color: #275378;
+    border: 1px solid #275378;
+}
+
+.myButton a {
+    color: #ebeff0;
+    text-decoration: none;
+}
+
+/* ----- */
+
+.loginContainer {
+    background-color: #ebeff0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.loginTestTaker {
+    font-size: 2vh;
+    font-weight: bold;
+}
+
+.loginNewTestTaker {
+    font-size: 4vh;
+    font-weight: 400;
+}
+
+.loginFirstP {
+    padding-top: 15px;
+}
+
+.loginTestTaker {
+    color: #275378;
+}
+
+.loginInsideContainer {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.testTakerDetails {
+    padding-top: 15px;
+    font-size: 4vh;
+}
+
+.testTakerDate {
+    font-size: 3vh;
+}
+
+.loginForm {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.loginAdult {
+    width: 70%;
+    height: 100px;
+    border-radius: 0 35px;
+    background-color: rgb(253, 234, 199);
+    margin-left: auto;
+    margin-right: auto;
+    color: #275378;
+}
+
+.loginAdult h4 {
+    margin-left: 35px;
+}
+
+.loginAdult p {
+    margin-left: 35px;
+}
+
+.loginDotted {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border: 2px dotted #275378;
+}
+
+.loginSelect {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.loginCols {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 1px solid #275378;    
+    border-radius: 50px;
+}
+
+.loginFirstCol {
+    background-color: #275378;
+    border-radius: 50px  0 0 50px;
+    color: #fcfcfc;
+}
+
+.loginSecondCol {
+    background-color: #fcfcfc;
+    border-radius: 0 50px 50px 0;
+    color: #275378;
+}
+
+.loginOxiri {
+    padding-bottom: 50px;
+}
+
+.loginBehalf {
+    width: 70%;
+    padding-top: 15px;
+    font-size: 4vh;
+    color: #275378;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.loginSolid {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border: 1px solid #275378;
+}
+
+.loginIELTS a {
+    color: #275378;
+    font-weight: bold;
+}
+
+.loginCheck {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.loginText {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.loginNotice {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+    color: #275378;
+    padding-bottom: 15px;
+}
